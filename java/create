@@ -1,0 +1,3 @@
+javac Space.java
+mv Space \ 
+echo "space created"

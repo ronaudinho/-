@@ -1,0 +1,3 @@
+python space.py
+echo "space created"
+echo "not really tho, since python is interpreted"

@@ -1,0 +1,3 @@
+go build space.go
+mv space \ 
+echo "space created"
